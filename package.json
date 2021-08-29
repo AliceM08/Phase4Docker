@@ -10,6 +10,7 @@
   "author": "Motlatjo Alice Makgoba",
   "license": "ISC",
   "dependencies": {
+    "docker": "^1.0.0",
     "express": "^4.17.1"
   }
 }
